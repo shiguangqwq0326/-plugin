@@ -2,7 +2,7 @@
 
 一个渐隐插件，提醒你多与你的烤oc进行对话。
 
-本包使用桌宠原生插件接口 v1，无需覆盖 main.js、renderer.js 或 preload.js，也不需要运行旧版 install.cmd。制作本包时没有进行安装，没有修改你的桌宠或个人设置。
+本包使用桌宠原生插件接口 v1，无需覆盖 main.js、renderer.js 或 preload.js
 
 ## 适用范围
 
